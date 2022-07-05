@@ -10,7 +10,7 @@ echo  @!!!:!   @!! !!@ @!@ @!@!@!@  @!!!:!   @!@  !@!
 echo  !!:      !!:     !!: !!:  !!! !!:      !!:  !!! 
 echo  : :: ::   :      :   :: : ::  : :: ::  :: :  : 
 echo.
-echo Made By Chup X L7
+echo Made By L7
 set /p webhook="Enter Webhook: "
 cls
 echo  @@@@@@@@ @@@@@@@@@@  @@@@@@@  @@@@@@@@ @@@@@@@  
